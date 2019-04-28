@@ -13,4 +13,5 @@ id INTEGER PRIMARY KEY,
 name TEXT);
 
 CREATE TABLE books (
-title TEXT);
+title TEXT,
+year INTEGER);
