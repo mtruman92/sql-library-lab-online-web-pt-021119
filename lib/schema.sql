@@ -19,4 +19,5 @@ year INTEGER,
 series_id INTEGER);
 
 CREATE TABLE characters (
-name TEXT);
+name TEXT,
+species TEXT);
