@@ -14,4 +14,5 @@ name TEXT);
 
 CREATE TABLE books (
 title TEXT,
-year INTEGER);
+year INTEGER,
+series_id INTEGER);
